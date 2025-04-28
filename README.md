@@ -120,7 +120,7 @@ mernProjectEcommerce/
 
 ## 📷 Screenshots
 ```markdown
-![Home Page] https://drive.google.com/file/d/17uEZWNL1JW2N3tPPb68ATcny9_bCNBcQ/view?usp=sharing
+![Home Page] Assets/Screenshot (560).png
 ![Product Details] https://drive.google.com/file/d/1_yzSlAnAif68Fjt0UboFVGXhGtx3CvmI/view?usp=sharing
 ![Admin Dashboard] https://drive.google.com/file/d/1otSxOvYvpv8lkiC21v8N2Nylts58RvlM/view?usp=sharing
 ```
