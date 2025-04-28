@@ -122,7 +122,7 @@ mernProjectEcommerce/
 ```markdown
 ![Home Page] Assets/Screenshot (560).png
 ![Product Details] Assets/Screenshot (561).png
-![Admin Dashboard] https://drive.google.com/file/d/1otSxOvYvpv8lkiC21v8N2Nylts58RvlM/view?usp=sharing
+![Admin Dashboard] Assets/Screenshot (562).png
 ```
 
 ---
