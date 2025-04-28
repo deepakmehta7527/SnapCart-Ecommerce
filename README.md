@@ -121,7 +121,7 @@ mernProjectEcommerce/
 ## 📷 Screenshots
 ```markdown
 ![Home Page] Assets/Screenshot (560).png
-![Product Details] https://drive.google.com/file/d/1_yzSlAnAif68Fjt0UboFVGXhGtx3CvmI/view?usp=sharing
+![Product Details] Assets/Screenshot (561).png
 ![Admin Dashboard] https://drive.google.com/file/d/1otSxOvYvpv8lkiC21v8N2Nylts58RvlM/view?usp=sharing
 ```
 
