@@ -119,9 +119,6 @@ mernProjectEcommerce/
 ---
 
 ## 📷 Screenshots
-
-_Add project screenshots here_
-
 ```markdown
 ![Home Page] https://drive.google.com/file/d/17uEZWNL1JW2N3tPPb68ATcny9_bCNBcQ/view?usp=sharing
 ![Product Details] https://drive.google.com/file/d/1_yzSlAnAif68Fjt0UboFVGXhGtx3CvmI/view?usp=sharing
