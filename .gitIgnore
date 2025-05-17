@@ -7,7 +7,7 @@
 /frontend/.pnp.js
 /frontend/node_modules
 /backend/node_modules
-/package-lock.json
+/frontend/package-lock.json
 /package.json
 /Procfile
 /README.md
